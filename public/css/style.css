@@ -1,0 +1,14 @@
+/* NAME: THIRI LAE WIN
+CLASS: DIT/1B/10
+ADM NO: 2340739  */
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+body{
+    background-image: url("../images/background.jpg");
+    background-size: auto;
+}
